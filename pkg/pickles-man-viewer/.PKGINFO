@@ -3,12 +3,12 @@
 pkgname = pickles-man-viewer
 pkgbase = pickles-man-viewer
 xdata = pkgtype=pkg
-pkgver = 2.PreRelease.0.0-2
+pkgver = 1.0.0-2
 pkgdesc = A PyQt6-based man page viewer for Pickles Linux
-url = https://github.com/pickles-linux/pickles-man-viewer
-builddate = 1759511336
+url = https://github.com/Stu-Pickles3047/pickles-man-viewer
+builddate = 1759569530
 packager = Unknown Packager
-size = 72813
+size = 72650
 arch = any
 license = GPL
 depend = python

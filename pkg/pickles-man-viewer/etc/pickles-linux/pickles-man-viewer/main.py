@@ -20,7 +20,7 @@ try:
     with open(version_file, 'r') as f:
         VERSION = f.read().strip()
 except FileNotFoundError:
-    VERSION = "2.0.0"  # fallback for development
+    VERSION = "1.0.0"  # fallback for development
 
 
 class AboutDialog(QDialog):
