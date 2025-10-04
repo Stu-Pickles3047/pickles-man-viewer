@@ -20,11 +20,8 @@ A PyQt6-based graphical user interface for viewing Linux man pages, designed for
 
 ## Installation
 
-### From AUR (Arch User Repository)
-
-```bash
-yay -S pickles-man-viewer
-```
+### From Pickles-Linux Repo
+1. Coming Soon
 
 ### Manual Build
 
