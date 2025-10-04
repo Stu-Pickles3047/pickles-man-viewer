@@ -1,0 +1,9 @@
+*.pkg.tar.zst
+*.tar.gz
+__pycache__/
+*.pyc
+*.pyo
+*.bak
+src/
+build/
+dist/

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Pickles Man Viewer
+Comment=A man page viewer for Pickles Linux
+Exec=pickles-man-viewer
+Icon=/etc/pickles-linux/pickles-man-viewer/pickle-logo.ico
+Terminal=false
+Type=Application
+Categories=Utility;Documentation;
